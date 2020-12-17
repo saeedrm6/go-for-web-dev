@@ -11,6 +11,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Go File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -22,6 +23,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
@@ -58,21 +60,25 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="174" y="85" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/1440.-1.1600.860/0.0.1440.860@0.0.1440.860" timestamp="1608194449881" />
-    <state width="1397" height="222" key="GridCell.Tab.0.bottom" timestamp="1608194731203">
+    <state width="1397" height="222" key="GridCell.Tab.0.bottom" timestamp="1608195723193">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="222" key="GridCell.Tab.0.bottom/1440.-1.1600.860/0.0.1440.860@0.0.1440.860" timestamp="1608194731203" />
-    <state width="1397" height="222" key="GridCell.Tab.0.center" timestamp="1608194731202">
+    <state width="1397" height="222" key="GridCell.Tab.0.bottom/1440.-1.1600.860/0.0.1440.860@0.0.1440.860" timestamp="1608195723193" />
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom/1440.-1.1600.860/0.0.1440.860@1440.-1.1600.860" timestamp="1608195037658" />
+    <state width="1397" height="222" key="GridCell.Tab.0.center" timestamp="1608195723193">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="222" key="GridCell.Tab.0.center/1440.-1.1600.860/0.0.1440.860@0.0.1440.860" timestamp="1608194731202" />
-    <state width="1397" height="222" key="GridCell.Tab.0.left" timestamp="1608194731202">
+    <state width="1397" height="222" key="GridCell.Tab.0.center/1440.-1.1600.860/0.0.1440.860@0.0.1440.860" timestamp="1608195723193" />
+    <state width="1557" height="222" key="GridCell.Tab.0.center/1440.-1.1600.860/0.0.1440.860@1440.-1.1600.860" timestamp="1608195037657" />
+    <state width="1397" height="222" key="GridCell.Tab.0.left" timestamp="1608195723193">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="222" key="GridCell.Tab.0.left/1440.-1.1600.860/0.0.1440.860@0.0.1440.860" timestamp="1608194731202" />
-    <state width="1397" height="222" key="GridCell.Tab.0.right" timestamp="1608194731202">
+    <state width="1397" height="222" key="GridCell.Tab.0.left/1440.-1.1600.860/0.0.1440.860@0.0.1440.860" timestamp="1608195723193" />
+    <state width="1557" height="222" key="GridCell.Tab.0.left/1440.-1.1600.860/0.0.1440.860@1440.-1.1600.860" timestamp="1608195037657" />
+    <state width="1397" height="222" key="GridCell.Tab.0.right" timestamp="1608195723193">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="222" key="GridCell.Tab.0.right/1440.-1.1600.860/0.0.1440.860@0.0.1440.860" timestamp="1608194731202" />
+    <state width="1397" height="222" key="GridCell.Tab.0.right/1440.-1.1600.860/0.0.1440.860@0.0.1440.860" timestamp="1608195723193" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right/1440.-1.1600.860/0.0.1440.860@1440.-1.1600.860" timestamp="1608195037657" />
   </component>
 </project>
