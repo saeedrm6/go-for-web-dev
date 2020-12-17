@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6118f004-30c8-4c6a-9f4d-0d36a31f8061" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="ProjectId" id="1lmF31Wshr4jNwO4Q0YwyxjSRzw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build go_for_web" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="go_for_web" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$" />
+      <package value="go_for_web" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6118f004-30c8-4c6a-9f4d-0d36a31f8061" name="Default Changelist" comment="" />
+      <created>1608194156405</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608194156405</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="174" y="85" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608194449881">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="174" y="85" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/1440.-1.1600.860/0.0.1440.860@0.0.1440.860" timestamp="1608194449881" />
+    <state width="1397" height="222" key="GridCell.Tab.0.bottom" timestamp="1608194731203">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.0.bottom/1440.-1.1600.860/0.0.1440.860@0.0.1440.860" timestamp="1608194731203" />
+    <state width="1397" height="222" key="GridCell.Tab.0.center" timestamp="1608194731202">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.0.center/1440.-1.1600.860/0.0.1440.860@0.0.1440.860" timestamp="1608194731202" />
+    <state width="1397" height="222" key="GridCell.Tab.0.left" timestamp="1608194731202">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.0.left/1440.-1.1600.860/0.0.1440.860@0.0.1440.860" timestamp="1608194731202" />
+    <state width="1397" height="222" key="GridCell.Tab.0.right" timestamp="1608194731202">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.0.right/1440.-1.1600.860/0.0.1440.860@0.0.1440.860" timestamp="1608194731202" />
+  </component>
+</project>
