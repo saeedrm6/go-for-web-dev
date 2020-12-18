@@ -5,7 +5,55 @@
     <title>{{.Title}}</title>
 </head>
 <body>
-    <h1>Hello, {{.Name}}</h1>
-    <p>Database Connection : {{.DBStatus}}</p>
+<h1>Hello, {{.Name}}</h1>
+{{if .DBStatus}}
+    <p>Database Connection : Alive</p>
+{{else}}
+    <p>Database Connection : Die</p>
+{{end}}
+<hr>
+<form action="" id="search-form" onsubmit="return false">
+    <input type="text" name="search">
+    <input type="submit" value="Search" onclick="submitSearch()">
+</form>
+
+<table width="100%">
+    <thead>
+    <tr style="text-align: left;">
+        <th width="40%">Title</th>
+        <th width="30%">Author</th>
+        <th width="10%">Year</th>
+        <th width="20%">ID</th>
+    </tr>
+    </thead>
+    <tbody id="search-results">
+
+    </tbody>
+</table>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script type="text/javascript">
+    function submitSearch() {
+        $.ajax({
+            url: "/search",
+            method: "POST",
+            data: $("#search-form").serialize(),
+            success: function (rawData) {
+                var parsed = JSON.parse(rawData);
+                if (!parsed) return;
+
+                var searchResults = $("#search-results");
+                searchResults.empty();
+
+                parsed.forEach(function (result) {
+                    var row = $("<tr><td>" + result.Title + "</td><td>" + result.Author + "</td><td>" + result.Year + "</td><td>" + result.ID + "</td></tr>")
+                    searchResults.append(row);
+                })
+            }
+        });
+
+        return false;
+    }
+</script>
 </body>
 </html>
